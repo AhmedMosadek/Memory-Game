@@ -18,7 +18,7 @@ Bootstrap: Utilized for responsive design and styling elements of the game.
 ## Getting Started
 To run the Memory Game locally on your machine, follow these steps:
 1. Clone this repository to your local machine.
-2. Open the index.html file in your preferred web browser.
+2. Open the Memory_Game.html file in your preferred web browser.
 
 ## How to Play
 1. Click on any card to reveal its symbol.
