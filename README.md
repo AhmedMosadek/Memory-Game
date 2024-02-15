@@ -17,11 +17,11 @@ Bootstrap: Utilized for responsive design and styling elements of the game.
 
 ## Getting Started
 To run the Memory Game locally on your machine, follow these steps:
-1- Clone this repository to your local machine.
-2- Open the index.html file in your preferred web browser.
+1. Clone this repository to your local machine.
+2. Open the index.html file in your preferred web browser.
 
 ## How to Play
-1- Click on any card to reveal its symbol.
-2- Click on a second card to try to find its matching pair.
-3- If the cards match, they remain face up. If not, they flip back over.
-4- Continue flipping pairs of cards until all pairs are matched.
+1. Click on any card to reveal its symbol.
+2. Click on a second card to try to find its matching pair.
+3. If the cards match, they remain face up. If not, they flip back over.
+4. Continue flipping pairs of cards until all pairs are matched.
