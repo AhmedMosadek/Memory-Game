@@ -8,19 +8,19 @@ The Memory Game is a classic card-matching game where the player's objective is 
 Dynamic generation of a deck of cards
 Interactive gameplay with card-flipping functionality
 Tracking of game progress, including the number of moves made and time taken
-Interactive congratulations modal upon completing the game
+Interactive congratulations modal upon completing the game.
 
-##Technologies Used
+## Technologies Used
 HTML/CSS: Provides the structure and styling for the game interface.
 JavaScript: Implements the game logic, including card shuffling, flipping, and matching.
 Bootstrap: Utilized for responsive design and styling elements of the game.
 
-##Getting Started
+## Getting Started
 To run the Memory Game locally on your machine, follow these steps:
 1- Clone this repository to your local machine.
 2- Open the index.html file in your preferred web browser.
 
-How to Play
+## How to Play
 1- Click on any card to reveal its symbol.
 2- Click on a second card to try to find its matching pair.
 3- If the cards match, they remain face up. If not, they flip back over.
